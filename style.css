@@ -60,11 +60,10 @@ a{
   display: flex;
   flex-direction: column;
   justify-content: center;
-  height: 300px;
 }
 
 .awesome-left {
-  margin-left: 400px;
+  margin-left: 200px;
 }
 
 .awesome h1 {
@@ -93,7 +92,7 @@ a{
 
 .awesome-right img {
   height: 100%;
-  width: 700px;
+  width: 500px;
   object-fit: cover;
   display: block;
   max-width: 100%;
