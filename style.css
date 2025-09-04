@@ -45,7 +45,7 @@ a{
 
 .awesome {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: stretch;
   gap: 32px;
   margin: auto;
@@ -64,6 +64,10 @@ a{
 
 .awesome-left {
   margin-left: 200px;
+}
+
+.awesome-right {
+  margin-right: 200px;
 }
 
 .awesome h1 {
